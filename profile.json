@@ -1,0 +1,45 @@
+{
+  "name": "Shawon Chakrabarty Kakon",
+  "role": "AI Researcher \u00b7 Deep Learning for Medical Imaging",
+  "tagline": "Making medical AI reliable: models that know when they don't know.",
+  "chips": [
+    "Uncertainty Quantification",
+    "Federated Learning",
+    "Explainable AI",
+    "Medical Imaging"
+  ],
+  "focus": [
+    "Medical image analysis",
+    "Uncertainty quantification",
+    "Federated learning",
+    "Explainable AI"
+  ],
+  "links_preview": [
+    "Research and publications",
+    "Experience and education",
+    "Contact"
+  ],
+  "publications": [
+    {
+      "title": "Explainable Deep Ensemble Meta-Learning Framework for Brain Tumor Classification Using MRI Images",
+      "venue": "Cancers (MDPI)",
+      "year": 2025,
+      "first": true,
+      "url": "https://doi.org/10.3390/cancers17172853"
+    },
+    {
+      "title": "Improving Cross-Domain Generalization in Brain MRIs via Feature Space Stability Regularization",
+      "venue": "Mathematics (MDPI)",
+      "year": 2026,
+      "first": true,
+      "url": "https://doi.org/10.3390/math14061082"
+    },
+    {
+      "title": "An integrated evaluation protocol for adversarial robustness, generalization, and explanation stability in URL-based phishing detection",
+      "venue": "Frontiers in Computer Science",
+      "year": 2026,
+      "first": false,
+      "url": "https://doi.org/10.3389/fcomp.2026.1834407"
+    }
+  ]
+}
